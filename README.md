@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dharshini K
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+Developer;Full+Stack+Learner;Building+Smart+Solutions;Hackathon+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Smart+Solutions;Hackathon+Enthusiast" />
 </p>
 🎓 Computer Science Engineering Student  
 📍 Tamil Nadu, India  
