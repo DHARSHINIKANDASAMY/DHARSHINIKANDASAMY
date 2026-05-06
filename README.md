@@ -1,105 +1,103 @@
-# 👋 Hi, I'm Dharshini K
+# 👋 Hey, I'm Dharshini  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Smart+Solutions;Hackathon+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Real-World+Applications;Hackathon+Enthusiast" />
 </p>
-🎓 Computer Science Engineering Student  
-📍 Tamil Nadu, India  
-📧 kdharshini2507@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dharshini-k-184741320/)  
-💻 [GitHub](https://github.com/DHARSHINIKANDASAMY)
+
+<p align="center">
+  📍 Tamil Nadu | 🎓 CSE Student  
+  <br/>
+  <a href="https://www.linkedin.com/in/dharshini-k-184741320/">LinkedIn</a> • 
+  <a href="mailto:kdharshini2507@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🚀 About Me
-A passionate Computer Science student eager to learn and apply knowledge in real-world scenarios. I enjoy building impactful applications, especially using AI and full-stack technologies. I am always open to collaboration and continuously improving my skills to solve real-world problems.
+## 🌱 A Bit About Me  
+I like building applications that go beyond basic functionality — focusing on usability, real-world impact, and performance.  
+
+Most of my work revolves around developing end-to-end solutions, from user interface to backend logic, with a growing interest in intelligent systems and automation.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack  
 
-**Frontend:**  
-- HTML, CSS, React Native  
-
-**Backend:**  
-- Node.js, Firebase  
-
-**Database:**  
-- MongoDB  
-
-**Programming Languages:**  
-- C, Java  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,firebase,java,c" />
+</p>
 
 ---
 
-## 💡 Areas of Interest
-- Data Structures  
-- Database Management Systems (DBMS)  
-- Artificial Intelligence & Chatbots  
+## 🚧 Currently Exploring  
+
+- Designing smarter backend systems  
+- Working on chatbot-based applications with better response accuracy  
+- Experimenting with image-based models  
 
 ---
 
-## 📜 Certifications
-- Oracle Certified Professional - Java SE17  
-- MongoDB Certified Associate Developer  
+## 🚀 Featured Projects  
+
+### 📱 Government Inspection App  
+A field inspection system designed to improve transparency and reduce fake reporting.  
+
+- 📍 Geo-tagging for location verification  
+- 🔐 Secure login & authentication  
+- 📄 Automatic PDF report generation  
+- ⚡ Built with React Native & Firebase  
 
 ---
 
-## 💼 Experience
+### 🍲 Recipe Recommendation System  
+A web platform that helps users decide what to cook using available ingredients.  
 
-### 🔹 Inplant Training
-- **Dev Technology Solutions, Salem**  
-  *Full Stack Development (7 days)*  
-- **W3 App Developers, Erode**  
-  *C Programming (8 days)*  
-
----
-
-## 🏆 Achievements
-- 🥇 1st Prize – Ideathon 2025 (Government Inspection App)  
-- 🥈 2nd Prize – Poster Presentation, IEEE WattaPitch (2025)  
-- 🥇 1st Prize – Paper Presentation, Scientium (2024)  
-- 🎯 Finalist – MIT Global Hackathon (AI Sports Sensor, 2025)  
-- 📢 Presented at YUKTA 2k26 – iTech Summit, PSG Tech  
+- 🥗 Ingredient-based suggestions  
+- 📖 Simple and clear cooking instructions  
+- ⚡ Built with React & MongoDB  
 
 ---
 
-## 📱 Projects
+### 💬 Medical Assistant Chatbot  
+A conversational system for basic health-related guidance.  
 
-### 🔹 Government Inspection App
-**Tech Stack:** React Native, Firebase  
-- Built for government officials to conduct field inspections  
-- Features: Geotagging, Fingerprint Authentication  
-- Auto-generates PDF reports to prevent fake reporting  
-
----
-
-### 🔹 Recipe Recommendation System
-**Tech Stack:** React, MongoDB  
-- Suggests recipes based on available ingredients  
-- Displays cooking instructions and allows user preferences  
+- 🧠 Context-aware responses  
+- 📚 Retrieval-based knowledge system  
+- ⚡ Built with Flask & vector search  
 
 ---
 
-### 🔹 AI Medical Chatbot
-**Tech Stack:** RAG, Flask  
-- AI-powered chatbot for skin & hair disease detection  
-- Uses NLP for context-aware responses  
-- Improves accessibility to preliminary health insights  
+## 📊 GitHub Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DHARSHINIKANDASAMY&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHARSHINIKANDASAMY&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🎯 Leadership & Activities
-- Executive Member – Gender Equality Club (2025–2026)  
-- Executive Member – Karate & Martial Arts Club (2025–2026)  
+## 🏆 Highlights  
+
+- 🥇 Ideathon Winner – Government Inspection App  
+- 🥈 IEEE WattaPitch Runner-up  
+- 🥇 Paper Presentation – Scientium  
+- 🌍 MIT Hackathon Finalist  
+- 📢 Presenter – YUKTA 2k26, PSG Tech  
+
+---
+
+## 🎯 Beyond Coding  
+
+- Executive Member – Gender Equality Club  
+- Executive Member – Karate & Martial Arts Club  
 - NSS Volunteer  
 
 ---
 
-## 🤝 Soft Skills
-- Leadership  
-- Communication  
-- Teamwork  
+## ✨  
+
+> I focus on building solutions that are practical, reliable, and meaningful.
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ Explore my repositories to see what I’ve been working on
