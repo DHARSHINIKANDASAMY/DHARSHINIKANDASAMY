@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Tamil Nadu | 🎓 CSE Student  
+  🎓 CSE Student  
   <br/>
   <a href="https://www.linkedin.com/in/dharshini-k-184741320/">LinkedIn</a> <br>
   <a href="mailto:kdharshini2507@gmail.com">Email</a>
@@ -19,8 +19,6 @@ I like building applications that go beyond basic functionality — focusing on 
 Most of my work revolves around developing end-to-end solutions, from user interface to backend logic, with a growing interest in intelligent systems and automation.
 
 ---
-
-## 🛠️ Tech Stack  
 
 ## 🛠️ Tech Stack  
 
