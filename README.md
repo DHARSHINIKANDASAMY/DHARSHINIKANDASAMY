@@ -7,7 +7,7 @@
 <p align="center">
   📍 Tamil Nadu | 🎓 CSE Student  
   <br/>
-  <a href="https://www.linkedin.com/in/dharshini-k-184741320/">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/dharshini-k-184741320/">LinkedIn</a> <br>
   <a href="mailto:kdharshini2507@gmail.com">Email</a>
 </p>
 
@@ -22,11 +22,21 @@ Most of my work revolves around developing end-to-end solutions, from user inter
 
 ## 🛠️ Tech Stack  
 
+## 🛠️ Tech Stack  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,firebase,java,c" />
 </p>
 
+### 💻 Technologies I Work With  
+
+- **Frontend:** HTML, CSS, JavaScript, React Native  
+- **Backend:** Node.js, Firebase  
+- **Database:** MongoDB  
+- **Programming Languages:** C, Java  
+
 ---
+
 
 ## 🚧 Currently Exploring  
 
