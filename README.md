@@ -7,7 +7,7 @@
 <p align="center">
   🎓 CSE Student  
   <br/>
-  <a href="https://www.linkedin.com/in/dharshini-k-184741320/">LinkedIn</a> <br>
+  <a href="https://www.linkedin.com/in/dharshini-k-184741320/">LinkedIn</a> 
   <a href="mailto:kdharshini2507@gmail.com">Email</a>
 </p>
 
