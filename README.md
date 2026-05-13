@@ -74,16 +74,6 @@ A conversational system for basic health-related guidance.
 
 ---
 
-## 📊 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHARSHINIKANDASAMY&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHARSHINIKANDASAMY&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Highlights  
 
 - 🥇 Ideathon Winner – Government Inspection App  
